@@ -1,0 +1,16 @@
+
+[TIMESTAMP] 1058715327 Sun Jul 20 17:35:27 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-asc.log 9-asc.log
+
+[BUILDTIME] 70744 (9)
+[SIZE] 10.70 MB, 93 files
+
+[DEP] alsa arts31 audiofile bash binutils bzip2 coreutils diffutils esound
+[DEP] expat file findutils freetype gawk gcc3 glibc23 grep libjpeg libpng
+[DEP] libsdl libsdl_image libsdl_mixer libsdlmm libtiff linux24-header
+[DEP] make mktemp ncurses net-tools ogg-vorbis paragui readline sed smpeg
+[DEP] sysfiles tar util-linux xfree86 zlib
+

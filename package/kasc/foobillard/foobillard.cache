@@ -1,0 +1,15 @@
+
+[TIMESTAMP] 1058786246 Mon Jul 21 13:17:26 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-foobillard.log 9-foobillard.log
+
+[BUILDTIME] 3392 (9)
+[SIZE] 1.24 MB, 46 files
+
+[DEP] alsa audiofile autoconf bash binutils bzip2 coreutils diffutils
+[DEP] esound findutils freetype gcc3 glibc23 grep libpng libsdl
+[DEP] linux24-header make mktemp net-tools perl5 sed sysfiles tar texinfo
+[DEP] xfree86 zlib
+

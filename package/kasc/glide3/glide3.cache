@@ -1,0 +1,12 @@
+
+[TIMESTAMP] 1058499548 Fri Jul 18 05:39:08 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-glide3.log 9-glide3.log
+
+[BUILDTIME] 1843 (9)
+[SIZE] 0.32 MB, 15 files
+
+[DEP] bash bzip2 coreutils gcc3 glibc23 grep sed sysfiles tar
+

@@ -1,0 +1,13 @@
+
+[TIMESTAMP] 1058717666 Sun Jul 20 18:14:26 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-powermanga.log 9-powermanga.log
+
+[BUILDTIME] 5048 (9)
+[SIZE] 15.12 MB, 396 files
+
+[DEP] bash binutils bzip2 coreutils findutils gcc3 glibc23 grep
+[DEP] linux24-header make powermanga sed sysfiles tar xfree86
+

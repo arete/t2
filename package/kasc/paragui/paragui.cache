@@ -1,0 +1,67 @@
+
+[TIMESTAMP] 1058713417 Sun Jul 20 17:03:37 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-paragui.log 9-paragui.err
+
+[BUILDTIME] 31724 (5)
+[SIZE] 3.19 MB, 88 files
+
+[DEP] alsa audiofile bash binutils bzip2 coreutils diffutils esound expat
+[DEP] file findutils freetype gcc3 glibc23 grep libjpeg libpng libsdl
+[DEP] libsdl_image libtiff linux24-header make mktemp ncurses net-tools
+[DEP] paragui patch perl5 python readline ruby sed swig sysfiles tar
+[DEP] util-linux xfree86 zlib
+
+[9-ERROR] make[3]: Nothing to be done for `install-exec-am'.
+[9-ERROR] /bin/sh ../../mkinstalldirs /usr/lib/ruby/site_ruby/1.6/i386-linux-gnu
+[9-ERROR]  /R.work/build/reference-2.0.0-rc1-x86-reference/tools.chroot/wrapper/install -c -m 644 paragui.so /usr/lib/ruby/site_ruby/1.6/i386-linux-gnu/paragui.so
+[9-ERROR] make[3]: Leaving directory `/R.src/paragui-1.0.3/bindings/ruby'
+[9-ERROR] make[2]: Leaving directory `/R.src/paragui-1.0.3/bindings/ruby'
+[9-ERROR] make[2]: Entering directory `/R.src/paragui-1.0.3/bindings'
+[9-ERROR] make[3]: Entering directory `/R.src/paragui-1.0.3/bindings'
+[9-ERROR] make[3]: Nothing to be done for `install-exec-am'.
+[9-ERROR] make[3]: Nothing to be done for `install-data-am'.
+[9-ERROR] make[3]: Leaving directory `/R.src/paragui-1.0.3/bindings'
+[9-ERROR] make[2]: Leaving directory `/R.src/paragui-1.0.3/bindings'
+[9-ERROR] make[1]: Leaving directory `/R.src/paragui-1.0.3/bindings'
+[9-ERROR] make[1]: Entering directory `/R.src/paragui-1.0.3'
+[9-ERROR] make[2]: Entering directory `/R.src/paragui-1.0.3'
+[9-ERROR] /bin/sh ./mkinstalldirs /usr/bin
+[9-ERROR]  /R.work/build/reference-2.0.0-rc1-x86-reference/tools.chroot/wrapper/install -c paragui-config /usr/bin/paragui-config
+[9-ERROR] /bin/sh ./mkinstalldirs /usr/share/aclocal
+[9-ERROR]  /R.work/build/reference-2.0.0-rc1-x86-reference/tools.chroot/wrapper/install -c -m 644 paragui.m4 /usr/share/aclocal/paragui.m4
+[9-ERROR] /bin/sh ./mkinstalldirs /usr/lib/pkgconfig
+[9-ERROR]  /R.work/build/reference-2.0.0-rc1-x86-reference/tools.chroot/wrapper/install -c -m 644 paragui.pc /usr/lib/pkgconfig/paragui.pc
+[9-ERROR] make[2]: Leaving directory `/R.src/paragui-1.0.3'
+[9-ERROR] make[1]: Leaving directory `/R.src/paragui-1.0.3'
+[9-ERROR] Trying to copy the default documentation ...
+[9-ERROR] `./doc/Makefile' -> `/usr/doc/paragui/Makefile'
+[9-ERROR] `./doc/Makefile.am' -> `/usr/doc/paragui/Makefile.am'
+[9-ERROR] `./doc/Makefile.in' -> `/usr/doc/paragui/Makefile.in'
+[9-ERROR] `./doc/RELEASENOTES' -> `/usr/doc/paragui/RELEASENOTES'
+[9-ERROR] `./doc/VisualC.html' -> `/usr/doc/paragui/VisualC.html'
+[9-ERROR] `./doc/paragui-config.sgml' -> `/usr/doc/paragui/paragui-config.sgml'
+[9-ERROR] `./src/physfs/docs/README' -> `/usr/doc/paragui/README'
+[9-ERROR] `AUTHORS' -> `/usr/doc/paragui/AUTHORS'
+[9-ERROR] `COPYING' -> `/usr/doc/paragui/COPYING'
+[9-ERROR] `CWProject.zip' -> `/usr/doc/paragui/CWProject.zip'
+[9-ERROR] `CWparagui.txt' -> `/usr/doc/paragui/CWparagui.txt'
+[9-ERROR] `INSTALL' -> `/usr/doc/paragui/INSTALL'
+[9-ERROR] `README' -> `/usr/doc/paragui/README'
+[9-ERROR] `README-ParaGUI.txt' -> `/usr/doc/paragui/README-ParaGUI.txt'
+[9-ERROR] `TODO' -> `/usr/doc/paragui/TODO'
+[9-ERROR] Creating file list and doing final adoptions ... 
+[9-ERROR] Found 88 files for this package.
+[9-ERROR] Clear (old) md5sums and cksums ...
+[9-ERROR] Calculating package dependencies ...
+[9-ERROR] Creating md5sum and cksum files ... done.
+[9-ERROR] Creating package description ...
+[9-ERROR] Making post-install adoptions.
+[9-ERROR] Found shared files with other packages:
+[9-ERROR] usr/lib/python2.2/paragui.pyc: paragui python
+[9-ERROR] usr/lib/python2.2/paragui.pyo: paragui python
+[9-ERROR] --- BUILD ERROR ---
+[9-ERROR] removed `/var/adm/logs/9-paragui.log'
+

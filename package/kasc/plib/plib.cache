@@ -1,0 +1,14 @@
+
+[TIMESTAMP] 1058711538 Sun Jul 20 16:32:18 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-plib.log 9-plib.log
+
+[BUILDTIME] 12552 (9)
+[SIZE] 1.95 MB, 53 files
+
+[DEP] autoconf automake bash binutils bzip2 coreutils diffutils findutils
+[DEP] gcc3 glibc23 glut grep linux24-header make mktemp net-tools perl5
+[DEP] plib sed sysfiles tar texinfo xfree86
+

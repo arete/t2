@@ -1,0 +1,15 @@
+
+[TIMESTAMP] 1058713608 Sun Jul 20 17:06:48 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-libsdlmm.log 9-libsdlmm.log
+
+[BUILDTIME] 3376 (9)
+[SIZE] 1.57 MB, 214 files
+
+[DEP] alsa audiofile autoconf automake bash binutils bzip2 coreutils
+[DEP] diffutils esound findutils gcc3 glibc23 grep libsdl libsdlmm
+[DEP] linux24-header make mktemp net-tools perl5 sed sysfiles tar texinfo
+[DEP] xfree86
+

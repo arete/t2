@@ -1,0 +1,15 @@
+
+[TIMESTAMP] 1058716575 Sun Jul 20 17:56:15 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-freeciv.log 9-freeciv.log
+
+[BUILDTIME] 13417 (9)
+[SIZE] 14.16 MB, 250 files
+
+[DEP] alsa audiofile bash binutils bison bzip2 coreutils diffutils esound
+[DEP] findutils gawk gcc3 gettext glib12 glibc23 grep gtk+12 imlib libsdl
+[DEP] libsdl_mixer linux24-header make mktemp ncurses net-tools ogg-vorbis
+[DEP] readline sed smpeg sysfiles tar util-linux xfree86 zlib
+

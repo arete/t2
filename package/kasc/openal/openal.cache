@@ -1,0 +1,15 @@
+
+[TIMESTAMP] 1058713802 Sun Jul 20 17:10:02 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-openal.log 9-openal.log
+
+[BUILDTIME] 4286 (9)
+[SIZE] 1.08 MB, 65 files
+
+[DEP] alsa alsa-driver audiofile autoconf bash binutils bzip2 coreutils
+[DEP] diffutils electricfence esound findutils gcc3 glibc23 grep libsdl
+[DEP] linux24-header m4 make mktemp nasm net-tools ogg-vorbis patch perl5
+[DEP] sed smpeg sysfiles tar texinfo util-linux xfree86
+

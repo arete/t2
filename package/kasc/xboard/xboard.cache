@@ -1,0 +1,14 @@
+
+[TIMESTAMP] 1058718593 Sun Jul 20 18:29:53 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-xboard.log 9-xboard.log
+
+[BUILDTIME] 3774 (9)
+[SIZE] 1.49 MB, 21 files
+
+[DEP] bash binutils bzip2 coreutils diffutils findutils flex gcc3 glibc23
+[DEP] grep groff linux24-header make net-tools sed sysfiles tar texinfo
+[DEP] xaw3d xboard xfree86
+

@@ -1,0 +1,13 @@
+
+[TIMESTAMP] 1058709927 Sun Jul 20 16:05:27 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-metakit.log 9-metakit.log
+
+[BUILDTIME] 4902 (9)
+[SIZE] 1.14 MB, 122 files
+
+[DEP] bash binutils bzip2 coreutils diffutils findutils gcc3 glibc23 grep
+[DEP] make metakit mktemp net-tools sed sysfiles tar util-linux
+

@@ -1,0 +1,14 @@
+
+[TIMESTAMP] 1058717056 Sun Jul 20 18:04:16 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-hexxagon.log 9-hexxagon.log
+
+[BUILDTIME] 3126 (9)
+[SIZE] 0.68 MB, 10 files
+
+[DEP] autoconf automake bash binutils bzip2 coreutils diffutils findutils
+[DEP] gcc3 glib12 glibc23 grep gtk+12 linux24-header make mktemp ncurses
+[DEP] net-tools perl5 readline sed sysfiles tar texinfo util-linux xfree86
+

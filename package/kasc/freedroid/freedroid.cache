@@ -1,0 +1,15 @@
+
+[TIMESTAMP] 1058716626 Sun Jul 20 17:57:06 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-freedroid.log 9-freedroid.log
+
+[BUILDTIME] 3800 (9)
+[SIZE] 5.14 MB, 118 files
+
+[DEP] alsa audiofile bash binutils bzip2 coreutils diffutils esound
+[DEP] findutils gcc3 glibc23 grep libjpeg libpng libsdl libsdl_image
+[DEP] libsdl_mixer linux24-header make mktemp net-tools ogg-vorbis sed
+[DEP] smpeg sysfiles tar util-linux xfree86 zlib
+

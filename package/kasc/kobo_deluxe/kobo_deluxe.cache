@@ -1,0 +1,15 @@
+
+[TIMESTAMP] 1058717235 Sun Jul 20 18:07:15 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-kobo_deluxe.log 9-kobo_deluxe.log
+
+[BUILDTIME] 5463 (9)
+[SIZE] 0.91 MB, 133 files
+
+[DEP] alsa audiofile bash binutils bzip2 coreutils diffutils esound
+[DEP] findutils gcc3 glibc23 grep libjpeg libpng libsdl libsdl_image
+[DEP] linux24-header make mktemp net-tools sed sysfiles tar util-linux
+[DEP] xfree86 zlib
+

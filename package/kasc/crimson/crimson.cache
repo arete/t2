@@ -1,0 +1,15 @@
+
+[TIMESTAMP] 1058715491 Sun Jul 20 17:38:11 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-crimson.log 9-crimson.log
+
+[BUILDTIME] 8196 (9)
+[SIZE] 1.07 MB, 42 files
+
+[DEP] alsa audiofile bash binutils bzip2 coreutils diffutils esound
+[DEP] findutils gcc3 glibc23 grep libsdl libsdl_mixer linux24-header
+[DEP] make mktemp net-tools ogg-vorbis sed smpeg sysfiles tar util-linux
+[DEP] xfree86 zlib
+

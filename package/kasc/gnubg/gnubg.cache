@@ -1,0 +1,16 @@
+
+[TIMESTAMP] 1058716952 Sun Jul 20 18:02:32 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-gnubg.log 9-gnubg.log
+
+[BUILDTIME] 13732 (9)
+[SIZE] 12.17 MB, 82 files
+
+[DEP] alsa arts31 atk12 audiofile bash binutils bison bzip2 coreutils
+[DEP] diffutils esound expat findutils freetype gcc3 gdbm gettext glib22
+[DEP] glibc23 gmp gnubg grep gtk+22 gtkextra2 guile libpng libxml2
+[DEP] linux24-header make mktemp ncurses net-tools pango12 pkgconfig
+[DEP] readline sed sysfiles tar texinfo util-linux xfree86 zlib
+

@@ -1,0 +1,14 @@
+
+[TIMESTAMP] 1058717577 Sun Jul 20 18:12:57 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-openglad.log 9-openglad.log
+
+[BUILDTIME] 11865 (9)
+[SIZE] 1.95 MB, 40 files
+
+[DEP] alsa audiofile bash binutils bzip2 coreutils diffutils esound
+[DEP] findutils gcc3 glibc23 grep libsdl libsdl_mixer linux24-header make
+[DEP] mktemp net-tools ogg-vorbis sed smpeg sysfiles tar util-linux xfree86
+

@@ -1,0 +1,14 @@
+
+[TIMESTAMP] 1058716763 Sun Jul 20 17:59:23 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-gltron.log 9-gltron.log
+
+[BUILDTIME] 4708 (9)
+[SIZE] 4.10 MB, 134 files
+
+[DEP] alsa audiofile bash binutils bzip2 coreutils diffutils esound
+[DEP] findutils gcc3 glibc23 grep libmikmod libpng libsdl linux24-header
+[DEP] make mktemp net-tools sed sysfiles tar util-linux xfree86 zlib
+

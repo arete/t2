@@ -1,0 +1,14 @@
+
+[TIMESTAMP] 1058717862 Sun Jul 20 18:17:42 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-squaroid.log 9-squaroid.log
+
+[BUILDTIME] 4037 (9)
+[SIZE] 0.49 MB, 56 files
+
+[DEP] autoconf automake bash binutils bzip2 coreutils diffutils file
+[DEP] findutils gcc3 glib12 glibc23 grep gtk+12 imlib linux24-header make
+[DEP] mktemp ncurses net-tools patch perl5 sed sysfiles tar texinfo xfree86
+

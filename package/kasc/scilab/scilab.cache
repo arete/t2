@@ -1,0 +1,14 @@
+
+[TIMESTAMP] 1058711893 Sun Jul 20 16:38:13 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-scilab.log 9-scilab.log
+
+[BUILDTIME] 34779 (9)
+[SIZE] 39.05 MB, 8538 files
+
+[DEP] bash binutils bzip2 coreutils diffutils findutils gcc3 glibc23 grep
+[DEP] linux24-header make mktemp ncurses net-tools scilab sed sysfiles
+[DEP] tar tcltk util-linux xaw3d xfree86
+

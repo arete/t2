@@ -1,0 +1,13 @@
+
+[TIMESTAMP] 1058718341 Sun Jul 20 18:25:41 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-xconq.log 9-xconq.log
+
+[BUILDTIME] 8639 (9)
+[SIZE] 5.87 MB, 240 files
+
+[DEP] bash binutils bzip2 coreutils diffutils findutils gcc3 glibc23 grep
+[DEP] linux24-header make net-tools patch sed sysfiles tar tcltk xfree86
+

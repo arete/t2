@@ -1,0 +1,14 @@
+
+[TIMESTAMP] 1058716688 Sun Jul 20 17:58:08 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-geki2.log 9-geki2.log
+
+[BUILDTIME] 2172 (9)
+[SIZE] 1.85 MB, 77 files
+
+[DEP] autoconf automake bash binutils bzip2 coreutils diffutils findutils
+[DEP] gcc3 glibc23 grep libkxl linux24-header make mktemp net-tools perl5
+[DEP] sed sysfiles tar texinfo xfree86
+

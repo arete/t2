@@ -1,0 +1,15 @@
+
+[TIMESTAMP] 1058786295 Mon Jul 21 13:18:15 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-senken.log 9-senken.log
+
+[BUILDTIME] 4473 (9)
+[SIZE] 1.02 MB, 110 files
+
+[DEP] alsa audiofile bash binutils bison bzip2 coreutils diffutils esound
+[DEP] findutils gcc3 gettext glib12 glibc23 grep gtk+12 libjpeg libpng
+[DEP] libsdl libsdl_image linux24-header make mktemp net-tools sed sysfiles
+[DEP] tar util-linux xfree86 zlib
+

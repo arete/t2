@@ -1,0 +1,27 @@
+--- ./configure.orig	2003-07-28 10:26:06.000000000 +0200
++++ ./configure	2003-07-28 10:28:01.000000000 +0200
+@@ -12,6 +12,11 @@
+ ## M4sh Initialization.  ##
+ ## --------------------- ##
+ 
++ac_cv_header_mcheck_h=no
++ac_cv_header_stropts_h=no
++ac_cv_header_wchar_h=no
++ac_cv_header_wctype_h=no
++
+ # Be Bourne compatible
+ if test -n "${ZSH_VERSION+set}" && (emulate sh) >/dev/null 2>&1; then
+   emulate sh
+@@ -10821,9 +10826,9 @@
+ fi
+ if test $ac_cv_header_dlfcn_h = yes; then
+ 
+-cat >>confdefs.h <<\_ACEOF
+-#define DYNAMIC 1
+-_ACEOF
++# cat >>confdefs.h <<\_ACEOF
++# #define DYNAMIC 1
++# _ACEOF
+ 
+ 	if test "$GCC" = yes
+ 	then

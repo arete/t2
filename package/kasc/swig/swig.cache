@@ -1,0 +1,14 @@
+
+[TIMESTAMP] 1058712066 Sun Jul 20 16:41:06 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-swig.log 9-swig.log
+
+[BUILDTIME] 7706 (9)
+[SIZE] 2.10 MB, 164 files
+
+[DEP] bash binutils bzip2 coreutils diffutils findutils gcc3 glibc23 grep
+[DEP] guile linux24-header make mktemp net-tools perl5 python ruby sed
+[DEP] swig sysfiles tar tcltk util-linux xfree86
+

@@ -1,0 +1,13 @@
+
+[TIMESTAMP] 1058718249 Sun Jul 20 18:24:09 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-xblasttnt.log 9-xblasttnt.log
+
+[BUILDTIME] 4277 (9)
+[SIZE] 7.04 MB, 889 files
+
+[DEP] bash binutils bzip2 coreutils findutils gcc3 glibc23 grep
+[DEP] linux24-header make mktemp sed sysfiles tar xblasttnt xfree86
+

@@ -1,0 +1,14 @@
+
+[TIMESTAMP] 1058709876 Sun Jul 20 16:04:36 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-libsdl_gfx.log 9-libsdl_gfx.log
+
+[BUILDTIME] 2513 (9)
+[SIZE] 0.32 MB, 30 files
+
+[DEP] alsa audiofile autoconf bash binutils bzip2 coreutils diffutils
+[DEP] esound findutils gcc3 glibc23 grep libsdl libsdl_gfx make mktemp
+[DEP] net-tools perl5 sed sysfiles tar texinfo xfree86
+

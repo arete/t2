@@ -1,0 +1,14 @@
+
+[TIMESTAMP] 1058716996 Sun Jul 20 18:03:16 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-gnuchess.log 9-gnuchess.log
+
+[BUILDTIME] 3160 (9)
+[SIZE] 0.19 MB, 14 files
+
+[DEP] bash binutils bzip2 coreutils diffutils findutils gcc3 glibc23 grep
+[DEP] linux24-header make mktemp ncurses net-tools readline sed sysfiles
+[DEP] tar util-linux
+

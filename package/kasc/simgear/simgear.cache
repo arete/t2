@@ -1,0 +1,14 @@
+
+[TIMESTAMP] 1058713992 Sun Jul 20 17:13:12 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-simgear.log 9-simgear.log
+
+[BUILDTIME] 18688 (9)
+[SIZE] 1.87 MB, 151 files
+
+[DEP] automake bash binutils bzip2 coreutils diffutils findutils gcc3
+[DEP] glibc23 glut grep linux24-header make metakit mktemp net-tools
+[DEP] perl5 plib sed simgear sysfiles tar util-linux xfree86 zlib
+

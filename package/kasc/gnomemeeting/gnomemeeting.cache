@@ -1,0 +1,109 @@
+
+[TIMESTAMP] 1058714588 Sun Jul 20 17:23:08 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-gnomemeeting.err 9-gnomemeeting.err
+
+[5-ERROR] gdkvideoio.h:54: virtual outside class declaration
+[5-ERROR] gdkvideoio.h:54: non-member function `const char* GetClass(unsigned int)' 
+[5-ERROR]    cannot have `const' method qualifier
+[5-ERROR] gdkvideoio.h: In function `const char* GetClass(unsigned int)':
+[5-ERROR] gdkvideoio.h:54: `PVideoOutputDeviceRGB' undeclared (first use this function)
+[5-ERROR] gdkvideoio.h:54: syntax error before `::' token
+[5-ERROR] gdkvideoio.h:54: no method `GDKVideoOutputDevice::Class'
+[5-ERROR] gdkvideoio.h: At global scope:
+[5-ERROR] gdkvideoio.h:54: virtual outside class declaration
+[5-ERROR] gdkvideoio.h:54: non-member function `BOOL IsClass(const char*)' cannot have `
+[5-ERROR]    const' method qualifier
+[5-ERROR] gdkvideoio.h: In function `BOOL IsClass(const char*)':
+[5-ERROR] gdkvideoio.h:54: no method `GDKVideoOutputDevice::Class'
+[5-ERROR] gdkvideoio.h: At global scope:
+[5-ERROR] gdkvideoio.h:54: virtual outside class declaration
+[5-ERROR] gdkvideoio.h:54: non-member function `BOOL IsDescendant(const char*)' cannot 
+[5-ERROR]    have `const' method qualifier
+[5-ERROR] gdkvideoio.h: In function `BOOL IsDescendant(const char*)':
+[5-ERROR] gdkvideoio.h:54: no method `GDKVideoOutputDevice::Class'
+[5-ERROR] gdkvideoio.h:54: syntax error before `::' token
+[5-ERROR] gdkvideoio.h: At global scope:
+[5-ERROR] gdkvideoio.h:54: syntax error before `(' token
+[5-ERROR] gdkvideoio.h:76: syntax error before `int'
+[5-ERROR] gdkvideoio.h:83: destructors must be member functions
+[5-ERROR] gdkvideoio.h:97: non-member function `PStringList GetDeviceNames()' cannot have 
+[5-ERROR]    `const' method qualifier
+[5-ERROR] gdkvideoio.h:139: syntax error before `protected'
+[5-ERROR] gdkvideoio.h:166: syntax error before `}' token
+[5-ERROR] In file included from endpoint.h:46,
+[5-ERROR]                  from gnomemeeting.h:43,
+[5-ERROR]                  from callbacks.cpp:44:
+[5-ERROR] videograbber.h:108: syntax error before `*' token
+[5-ERROR] videograbber.h:185: syntax error before `*' token
+[5-ERROR] In file included from gnomemeeting.h:43,
+[5-ERROR]                  from callbacks.cpp:44:
+[5-ERROR] endpoint.h:472: syntax error before `*' token
+[5-ERROR] endpoint.h:473: syntax error before `*' token
+[5-ERROR] make[2]: *** [callbacks.o] Error 1
+[5-ERROR] make[2]: Leaving directory `/R.src/gnomemeeting-0.98.0/src'
+[5-ERROR] make[1]: *** [all-recursive] Error 1
+[5-ERROR] make[1]: Leaving directory `/R.src/gnomemeeting-0.98.0'
+[5-ERROR] make: *** [all-recursive-am] Error 2
+[5-ERROR] --- BUILD ERROR ---
+[5-ERROR] Creating file list and doing final adoptions ... 
+[5-ERROR] Found 7 files for this package.
+[5-ERROR] Clear (old) md5sums and cksums ...
+[5-ERROR] Calculating package dependencies ...
+[5-ERROR] Creating md5sum and cksum files ... done.
+[5-ERROR] Creating package description ...
+[5-ERROR] Making post-install adoptions.
+
+[9-ERROR] gdkvideoio.h:54: virtual outside class declaration
+[9-ERROR] gdkvideoio.h:54: non-member function `const char* GetClass(unsigned int)' 
+[9-ERROR]    cannot have `const' method qualifier
+[9-ERROR] gdkvideoio.h: In function `const char* GetClass(unsigned int)':
+[9-ERROR] gdkvideoio.h:54: `PVideoOutputDeviceRGB' undeclared (first use this function)
+[9-ERROR] gdkvideoio.h:54: syntax error before `::' token
+[9-ERROR] gdkvideoio.h:54: no method `GDKVideoOutputDevice::Class'
+[9-ERROR] gdkvideoio.h: At global scope:
+[9-ERROR] gdkvideoio.h:54: virtual outside class declaration
+[9-ERROR] gdkvideoio.h:54: non-member function `BOOL IsClass(const char*)' cannot have `
+[9-ERROR]    const' method qualifier
+[9-ERROR] gdkvideoio.h: In function `BOOL IsClass(const char*)':
+[9-ERROR] gdkvideoio.h:54: no method `GDKVideoOutputDevice::Class'
+[9-ERROR] gdkvideoio.h: At global scope:
+[9-ERROR] gdkvideoio.h:54: virtual outside class declaration
+[9-ERROR] gdkvideoio.h:54: non-member function `BOOL IsDescendant(const char*)' cannot 
+[9-ERROR]    have `const' method qualifier
+[9-ERROR] gdkvideoio.h: In function `BOOL IsDescendant(const char*)':
+[9-ERROR] gdkvideoio.h:54: no method `GDKVideoOutputDevice::Class'
+[9-ERROR] gdkvideoio.h:54: syntax error before `::' token
+[9-ERROR] gdkvideoio.h: At global scope:
+[9-ERROR] gdkvideoio.h:54: syntax error before `(' token
+[9-ERROR] gdkvideoio.h:76: syntax error before `int'
+[9-ERROR] gdkvideoio.h:83: destructors must be member functions
+[9-ERROR] gdkvideoio.h:97: non-member function `PStringList GetDeviceNames()' cannot have 
+[9-ERROR]    `const' method qualifier
+[9-ERROR] gdkvideoio.h:139: syntax error before `protected'
+[9-ERROR] gdkvideoio.h:166: syntax error before `}' token
+[9-ERROR] In file included from endpoint.h:46,
+[9-ERROR]                  from gnomemeeting.h:43,
+[9-ERROR]                  from callbacks.cpp:44:
+[9-ERROR] videograbber.h:108: syntax error before `*' token
+[9-ERROR] videograbber.h:185: syntax error before `*' token
+[9-ERROR] In file included from gnomemeeting.h:43,
+[9-ERROR]                  from callbacks.cpp:44:
+[9-ERROR] endpoint.h:472: syntax error before `*' token
+[9-ERROR] endpoint.h:473: syntax error before `*' token
+[9-ERROR] make[2]: *** [callbacks.o] Error 1
+[9-ERROR] make[2]: Leaving directory `/R.src/gnomemeeting-0.98.0/src'
+[9-ERROR] make[1]: *** [all-recursive] Error 1
+[9-ERROR] make[1]: Leaving directory `/R.src/gnomemeeting-0.98.0'
+[9-ERROR] make: *** [all-recursive-am] Error 2
+[9-ERROR] --- BUILD ERROR ---
+[9-ERROR] Creating file list and doing final adoptions ... 
+[9-ERROR] Found 7 files for this package.
+[9-ERROR] Clear (old) md5sums and cksums ...
+[9-ERROR] Calculating package dependencies ...
+[9-ERROR] Creating md5sum and cksum files ... done.
+[9-ERROR] Creating package description ...
+[9-ERROR] Making post-install adoptions.
+

@@ -1,0 +1,14 @@
+
+[TIMESTAMP] 1058716655 Sun Jul 20 17:57:35 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-frozen-bubble.log 9-frozen-bubble.log
+
+[BUILDTIME] 2132 (9)
+[SIZE] 11.77 MB, 297 files
+
+[DEP] alien alsa audiofile bash binutils bzip2 coreutils esound findutils
+[DEP] frozen-bubble gcc3 glibc23 grep libsdl libsdl_mixer libsdl_perl
+[DEP] linux24-header make ogg-vorbis perl5 sed smpeg sysfiles tar xfree86
+

@@ -1,0 +1,14 @@
+
+[TIMESTAMP] 1058718071 Sun Jul 20 18:21:11 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-torcs.log 9-torcs.log
+
+[BUILDTIME] 17170 (9)
+[SIZE] 25.55 MB, 900 files
+
+[DEP] autoconf automake bash binutils bzip2 coreutils diffutils findutils
+[DEP] gawk gcc3 glibc23 glut grep libpng linux24-header make mktemp
+[DEP] net-tools perl5 plib sed sysfiles tar texinfo xfree86 zlib
+

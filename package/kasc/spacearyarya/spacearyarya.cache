@@ -1,0 +1,14 @@
+
+[TIMESTAMP] 1058717816 Sun Jul 20 18:16:56 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-spacearyarya.log 9-spacearyarya.log
+
+[BUILDTIME] 2011 (9)
+[SIZE] 0.61 MB, 38 files
+
+[DEP] autoconf automake bash binutils bzip2 coreutils diffutils findutils
+[DEP] gcc3 glibc23 grep libkxl linux24-header make mktemp net-tools perl5
+[DEP] sed sysfiles tar texinfo xfree86
+

@@ -1,0 +1,13 @@
+
+[TIMESTAMP] 1058717743 Sun Jul 20 18:15:43 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-rubiclox.log 9-rubiclox.log
+
+[BUILDTIME] 2295 (9)
+[SIZE] 0.14 MB, 13 files
+
+[DEP] bash binutils bzip2 coreutils findutils gcc3 glibc23 grep make sed
+[DEP] sysfiles tar xfree86
+

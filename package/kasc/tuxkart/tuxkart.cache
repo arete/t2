@@ -1,0 +1,14 @@
+
+[TIMESTAMP] 1058718129 Sun Jul 20 18:22:09 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-tuxkart.log 9-tuxkart.log
+
+[BUILDTIME] 4228 (9)
+[SIZE] 9.82 MB, 222 files
+
+[DEP] autoconf automake bash binutils bzip2 coreutils diffutils findutils
+[DEP] gcc3 glibc23 glut grep linux24-header make mktemp net-tools perl5
+[DEP] plib sed sysfiles tar texinfo xfree86
+

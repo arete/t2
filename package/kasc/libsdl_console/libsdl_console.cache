@@ -1,0 +1,13 @@
+
+[TIMESTAMP] 1058709848 Sun Jul 20 16:04:08 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-libsdl_console.log 9-libsdl_console.log
+
+[BUILDTIME] 1568 (9)
+[SIZE] 0.17 MB, 15 files
+
+[DEP] bash binutils bzip2 coreutils findutils gcc3 glibc23 grep libsdl
+[DEP] libsdl_image make sed sysfiles tar
+

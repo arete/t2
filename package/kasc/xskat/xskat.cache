@@ -1,0 +1,13 @@
+
+[TIMESTAMP] 1058718373 Sun Jul 20 18:26:13 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-xskat.log 9-xskat.log
+
+[BUILDTIME] 2689 (9)
+[SIZE] 0.39 MB, 16 files
+
+[DEP] bash binutils bzip2 coreutils findutils gcc3 glibc23 grep
+[DEP] linux24-header make sed sysfiles tar xfree86
+

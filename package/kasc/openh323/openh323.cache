@@ -1,0 +1,13 @@
+
+[TIMESTAMP] 1058711392 Sun Jul 20 16:29:52 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-openh323.log 9-openh323.log
+
+[BUILDTIME] 145973 (9)
+[SIZE] 15.64 MB, 228 files
+
+[DEP] bash binutils bison bzip2 coreutils expat findutils flex gawk gcc3
+[DEP] glibc23 grep linux24-header m4 make openssl patch sed sysfiles tar
+

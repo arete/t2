@@ -1,0 +1,14 @@
+
+[TIMESTAMP] 1058717391 Sun Jul 20 18:09:51 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-lpairs.log 9-lpairs.log
+
+[BUILDTIME] 1918 (9)
+[SIZE] 0.95 MB, 44 files
+
+[DEP] alsa audiofile autoconf automake bash binutils bzip2 coreutils
+[DEP] diffutils esound findutils gcc3 glibc23 grep libsdl make mktemp
+[DEP] net-tools perl5 sed sysfiles tar texinfo xfree86
+

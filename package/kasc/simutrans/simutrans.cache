@@ -1,0 +1,12 @@
+
+[TIMESTAMP] 1058717790 Sun Jul 20 18:16:30 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-simutrans.log 9-simutrans.log
+
+[BUILDTIME] 1512 (9)
+[SIZE] 4.77 MB, 435 files
+
+[DEP] bash bzip2 coreutils gcc3 grep sed simutrans sysfiles tar unzip
+

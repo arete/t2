@@ -1,0 +1,12 @@
+
+[TIMESTAMP] 1058718428 Sun Jul 20 18:27:08 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-flightgear-base.log 9-flightgear-base.log
+
+[BUILDTIME] 4661 (9)
+[SIZE] 118.16 MB, 3296 files
+
+[DEP] bash bzip2 coreutils findutils gcc3 grep sed sysfiles tar
+

@@ -1,0 +1,15 @@
+
+[TIMESTAMP] 1058713666 Sun Jul 20 17:07:46 2003
+[CONFIG-ID] 2.0.0-rc1-x86-reference
+[ROCKVER] 2.0.0-rc1
+
+[LOGS] 5-libsdl_perl.log 9-libsdl_perl.log
+
+[BUILDTIME] 5447 (9)
+[SIZE] 1.09 MB, 74 files
+
+[DEP] alien alsa audiofile bash binutils bzip2 coreutils esound findutils
+[DEP] gcc3 glibc23 grep libjpeg libpng libsdl libsdl_console libsdl_gfx
+[DEP] libsdl_image libsdl_mixer libsdl_net libsdl_perl libsdl_ttf
+[DEP] linux24-header make patch perl5 sed smpeg sysfiles tar xfree86
+
