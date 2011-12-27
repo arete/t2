@@ -1,0 +1,6 @@
+[submodule "misc/luabash/build"]
+	path = misc/luabash/build
+	url = https://github.com/arete/build.git
+[submodule "source/utility"]
+	path = source/utility
+	url = https://github.com/arete/utility.git
