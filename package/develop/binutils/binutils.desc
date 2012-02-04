@@ -39,7 +39,7 @@
 
 [L] GPL
 [S] Stable
-[V] 2.20.51.0.11
+[V] 2.22
 [P] X 012--5---9 102.100
 
-[D] 2165447398 binutils-2.20.51.0.11.tar.bz2 http://mirror.anl.gov/pub/linux/devel/binutils/
+[D] 1533751155 binutils-2.22.tar.bz2 http://ftp.gnu.org/gnu/binutils/
