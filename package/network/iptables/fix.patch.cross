@@ -1,0 +1,11 @@
+--- iptables-1.4.12.2/extensions/GNUmakefile.in.vanilla	2012-03-30 12:55:01.904995275 +0200
++++ iptables-1.4.12.2/extensions/GNUmakefile.in	2012-03-30 12:55:06.813988629 +0200
+@@ -68,7 +68,7 @@
+ 
+ .PHONY: all install clean distclean FORCE
+ 
+-all: ${targets} check
++all: ${targets} 
+ 
+ check: ${targets}
+ 	@echo "  CHECK    unknown symbols in .so files"; \
