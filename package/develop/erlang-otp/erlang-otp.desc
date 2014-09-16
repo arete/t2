@@ -29,8 +29,8 @@
 
 [L] OpenSource
 [S] Stable
-[V] R16B03-1
+[V] 17.1
 [P] X 0----5---9 800.000
 
-[D] 3802025647 otp_src_R16B03-1.tar.gz http://www.erlang.org/download/
-[D] 1295007612 otp_doc_man_R16B03-1.tar.gz http://erlang.org/download/
+[D] 3661038175 otp_src_17.1.tar.gz http://www.erlang.org/download/
+[D] 4225346435 otp_doc_man_17.1.tar.gz http://erlang.org/download/
