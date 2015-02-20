@@ -30,7 +30,7 @@
 [M] Rene Rebe <rene@t2-project.org>
 
 [C] base/library
-[F] DIETLIBC CROSS
+[F] DIETLIBC CROSS NOPARALLEL
 
 [L] APL
 [S] Stable
