@@ -44,6 +44,7 @@ m opt
 m srv
 m proc
 m root
+m run
 m sbin
 m sbin/init.d
 m sys
@@ -98,7 +99,6 @@ m var/lock
 m var/log
 m var/mail
 m var/opt
-m var/run
 m var/spool
 m var/spool/mqueue
 m var/state
@@ -118,6 +118,7 @@ l usr/spool/locks ../../var/lock
 l usr/tmp ../var/tmp
 l var/spool/mail ../mail
 l var/state/pkgtool ../adm
+l var/run ../run
 
 chmod 0700 root
 chmod ugo=rwxt tmp
